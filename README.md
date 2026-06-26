@@ -23,17 +23,18 @@ Aplikasi React Native (Expo) untuk melacak kebiasaan harian dengan sistem streak
 
 **Daftar Habit**
 
-*(tambahkan screenshot di sini)*
+<img width="720" height="1600" alt="Daftar Habbit" src="https://github.com/user-attachments/assets/e20dd226-0d63-4ddc-a803-14156ea3aaf9" />
+
 
 **Fitur Search & Statistik**
 
-*(tambahkan screenshot di sini)*
+<img width="1080" height="2400" alt="Fitur Search   Statistic" src="https://github.com/user-attachments/assets/183696e0-80c3-409d-8427-6e07812310aa" />
+
 
 **Bukti Persistensi (sebelum & sesudah tutup-buka app)**
 
-*(tambahkan screenshot sebelum tutup app)*
+<img width="720" height="1600" alt="Presistensi" src="https://github.com/user-attachments/assets/e2c0a3c9-d0cb-4513-915b-9ac3c5b545da" />
 
-*(tambahkan screenshot setelah buka app lagi — data masih sama)*
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +44,7 @@ Aplikasi React Native (Expo) untuk melacak kebiasaan harian dengan sistem streak
 
 ## 🔗 Expo Snack
 
-[Coba langsung di Expo Snack](https://snack.expo.dev/) — *(tempel link Snack di sini)*
+[Coba langsung di Expo Snack](https://snack.expo.dev/@niell77/habbitflow) — *(tempel link Snack di sini)*
 
 ## 👤 Dibuat oleh
 
