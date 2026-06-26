@@ -44,7 +44,7 @@ Aplikasi React Native (Expo) untuk melacak kebiasaan harian dengan sistem streak
 
 ## 🔗 Expo Snack
 
-[Coba langsung di Expo Snack](https://snack.expo.dev/@niell77/habbitflow) — *(tempel link Snack di sini)*
+[Coba langsung di Expo Snack](https://snack.expo.dev/@niell77/habbitflow) 
 
 ## 👤 Dibuat oleh
 
